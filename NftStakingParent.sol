@@ -7,8 +7,8 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/utils/math/SignedSafeMath.sol";
 import "@openzeppelin/contracts/utils/Context.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "@net2devcrypto/001/IERC20.sol";
-import "@net2devcrypto/001/ERC1155TokenReceiver.sol";
+import "https://github.com/net2devcrypto/001/IERC20.sol";
+import "https://github.com/net2devcrypto/001/ERC1155TokenReceiver.sol";
 
 
 /**
