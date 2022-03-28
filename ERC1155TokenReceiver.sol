@@ -1,7 +1,7 @@
 pragma solidity 0.8.0;
 
 import "@openzeppelin/contracts/utils/introspection/IERC165.sol";
-import "@net2devcrypto/nftstaking/IERC1155TokenReceiver.sol";
+import "https://github.com/net2devcrypto/001/IERC1155TokenReceiver.sol";
 
 abstract contract ERC1155TokenReceiver is IERC1155TokenReceiver, IERC165 {
     bytes4 private constant _ERC165_INTERFACE_ID = type(IERC165).interfaceId;
