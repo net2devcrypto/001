@@ -2,8 +2,8 @@
 
 pragma solidity 0.8.0;
 
-import "@net2devcrypto/001/IERC20.sol";
-import "@net2devcrypto/001/NftStakingParent.sol";
+import "https://github.com/net2devcrypto/001/IERC20.sol";
+import "https://github.com/net2devcrypto/001/NftStakingParent.sol";
 
 contract NftStakingCall is NftStakingParent {
 
